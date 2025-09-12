@@ -17,7 +17,6 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
 
 1. **Introducción al *Machine Learning***
    * Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_machinelearning_introductiontomachinelearning.pdf)
-   * **Taller 01:** Introducción a Sistemas Inteligentes [Descargar](https://github.com/marcoteran/ml/raw/master/homeworks/01_machinelearning_introductiontointelligentsystems.pdf)
    * **Video:** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
    * **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
@@ -47,7 +46,7 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
 
 ## Evaluación
 - **Talleres:** 20%  
-- **Exposición (temas avanzados):** 20%  
+- **Exposición (temas avanzados):** 20% [Descargar](https://github.com/marcoteran/ml/raw/master/homeworks/ml_presentations.pdf)
 - **Examen (Sesión 4):** 25%  
 - **Proyecto Integrador (en grupo):** 35%
 
