@@ -1,71 +1,67 @@
-[![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/machinelearning)
+[![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/ml)
 
-# ST1631 — Aprendizaje de Máquina aplicado
-## Tecnologías de la información y la comunicación
+# SI7009 — Aprendizaje Automático
+## Maestría en Ciencias de los Datos y Analítica · Universidad EAFIT
 
 ### Descripción del curso
-Este curso ofrece una formación sólida en **Aprendizaje de Máquina aplicado**: desde la definición del problema y la calidad de datos hasta el modelado, la validación honesta, la interpretación y la comunicación de resultados. Se cubren modelos lineales y regularizados, SVM, ensambles (Random Forest, Gradient Boosting, XGBoost), aprendizaje no supervisado, una introducción acotada a \_deep learning\_ y nociones de series de tiempo. Enfoque práctico con \`scikit-learn\`, \`pandas\`, y \`matplotlib\`.
+Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Automático**: formulación del problema y métricas, calidad y preparación de datos, modelado, validación honesta, interpretación y comunicación de resultados. Se trabajan modelos lineales y regularizados, SVM, árboles y **ensambles** (Random Forest, Gradient Boosting, XGBoost), **aprendizaje no supervisado** (clustering, reducción de dimensionalidad) e **introducción al aprendizaje por refuerzo**. Herramientas: `scikit-learn`, `pandas`, `matplotlib` y buenas prácticas con `Pipeline`/`ColumnTransformer`.
 
 ### Información de contacto
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 
 ---
+
 ## Contenido
-0. **Presentación del curso *Aprendizaje de Máquina aplicado***
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/00_ml_syllabus.pdf)
+0. **Presentación del curso**
+   * Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/00_machinelearning_syllabus.pdf)
 
 1. **Introducción al *Machine Learning***
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/01_ml_introductiontomachinelearning.pdf)
-		* **Taller 01:**  Introducción a Sistemas Inteligentes [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/01_ml_introductiontointelligentsystems.pdf)
-		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
-		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
-2. **Preprocesamiento de datos y Exploración de los datos (EDA)**
-	
+   * Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_machinelearning_introductiontomachinelearning.pdf)
+   * **Taller 01:** Introducción a Sistemas Inteligentes [Descargar](https://github.com/marcoteran/ml/raw/master/homeworks/01_machinelearning_introductiontointelligentsystems.pdf)
+   * **Video:** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
+   * **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
+
+2. **Preprocesamiento y EDA**
+   * Limpieza, preparación y validación de datos con `Pipeline`/`ColumnTransformer`.
+
 3. **Modelos lineales y regularización**
-	*  Ridge/Lasso/Elastic Net; regresión logística.
+   * Ridge, Lasso, Elastic Net; regresión logística.
 
-3. **SVM**  
-   *  Núcleos, márgenes, \_hyper-parameter tuning\_.
+4. **SVM**  
+   * Núcleos, márgenes, *hyper-parameter tuning*.
 
+5. **Métodos de ensamble**
+   * Árboles de decisión, Random Forest, Bagging/Boosting, XGBoost.
 
-4. **Métodos de ensamble**
-	* Árboles de decisión, Random Forests y exploración aleatorizada
-	* Bagging y Boosting
-	* XGBoost
+6. **Aprendizaje no supervisado**
+   * **Reducción de dimensionalidad:** PCA; selección de variables.  
+   * **Clustering:** \(k\)-means, jerárquico, DBSCAN; validación.
 
+7. **Introducción al Aprendizaje por Refuerzo**
+   * Agente–entorno, recompensas, exploración vs. explotación; Q-learning y SARSA (visión práctica).
 
-5. **Aprendizaje no supervisado**
-  	* **Reducción de dimensionalidad:** PCA; selección de variables.
-  	* **Aprendizaje no supervisado:** \(k\)-means, clustering jerárquico, validación.
-
-6. **Introducción a Deep Learning** 
-	* Redes neuronales y MLP
-	
-7. **Resumen**
+8. **Cierre y síntesis**
+   * Interpretabilidad (SHAP, ICE), calibración y comunicación ejecutiva.
 
 ---
+
 ## Evaluación
-- **Proyecto aplicado (3 entregas)**
-  \- Entrega 1 (2 semana)
-  \- Entrega 2 (mitad del curso)
-  \- Entrega 3 (día final)
-- **Examen final (teórico–práctico)**
-- **Presentación de tópicos avanzados**
-- **Talleres, tareas cortas y quices**
+- **Talleres:** 20%  
+- **Exposición (temas avanzados):** 20%  
+- **Examen (Sesión 4):** 25%  
+- **Proyecto Integrador (en grupo):** 35%
 
 > Los talleres se asignarán de forma continua para reforzar contenidos.
 
-Ejecutar un proyecto de Machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/ml_proyecto.pdf).
-
-
 ---
+
 ## Material adicional
-* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
-	* [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
-	* [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
-* [Python Cheatsheet](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/cheatsheetsandinfographics/pythoncheatsheets.pdf)
+* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/ml/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
+  * [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
+  * [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
+* [Python Cheatsheet](https://github.com/marcoteran/ml/raw/master/aditionalmaterial/cheatsheetsandinfographics/pythoncheatsheets.pdf)
 * [Cómo instalar TensorFlow 2](https://www.tensorflow.org/install?hl=es-419)
-	* [TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Video](https://www.youtube.com/watch?v=s4Lcf9du9L8)
+  * [Video] TensorFlow Installation (Windows): https://www.youtube.com/watch?v=s4Lcf9du9L8
 
 ---
 ## Bibliografía
