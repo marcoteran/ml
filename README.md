@@ -20,8 +20,12 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
    * **Video:** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
    * **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
-2. **Preprocesamiento y EDA**
-   * Limpieza, preparación y validación de datos con `Pipeline`/`ColumnTransformer`.
+2. **Preprocesamiento y EDA:** Limpieza, preparación y validación de datos con `Pipeline`/`ColumnTransformer`.
+		* ** Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_machinelearning_dataexploration.pdf)
+		* **[Norvig2009]** Peter Norvig et al. *“The Unreasonable Effectiveness of Data”* [(article)](https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/35179.pdf)
+  	* IPython Notebooks:
+			- Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 
 3. **Modelos lineales y regularización**
    * Ridge, Lasso, Elastic Net; regresión logística.
