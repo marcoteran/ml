@@ -21,7 +21,7 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
    * **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
 2. **Preprocesamiento y EDA:** Limpieza, preparación y validación de datos con `Pipeline`/`ColumnTransformer`.
-		* ** Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_machinelearning_dataexploration.pdf)
+		* Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_machinelearning_dataexploration.pdf)
 		* **[Norvig2009]** Peter Norvig et al. *“The Unreasonable Effectiveness of Data”* [(article)](https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/35179.pdf)
   	* IPython Notebooks:
 			- Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
