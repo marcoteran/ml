@@ -35,9 +35,16 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
          - Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
          [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
          [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
+         - Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
+         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
+         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
 
-4. **SVM**  
-   * Núcleos, márgenes, *hyper-parameter tuning*.
+4. **SVM:** Núcleos, márgenes, *hyper-parameter tuning*.
+   * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/04_machinelearning_svmmandmodelselection.pdf)
+   * IPython Notebooks:
+         - Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
+         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
+         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
 
 5. **Métodos de ensamble**
    * Árboles de decisión, Random Forest, Bagging/Boosting, XGBoost.
