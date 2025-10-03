@@ -37,15 +37,17 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
 			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
 	
 
-4. **KNN, SVM y selección de modelos:** KNN, Núcleos, márgenes, *hyper-parameter tuning*.
-	* Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/04_machinelearning_svmmandmodelselection.pdf)
-	* IPython Notebooks:
-      - KNN: Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
-         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
-         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
-		- SVM: Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
-			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
+4. **KNN, SVM y selección de modelos:**  
+   KNN, Núcleos, márgenes, *hyper-parameter tuning*.
+
+   * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/04_machinelearning_svmmandmodelselection.pdf)
+   * IPython Notebooks:
+     - **KNN:** Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)  
+       [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)  
+       [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
+     - **SVM:** Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)  
+       [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)  
+       [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
 
 5. **Métodos de ensamble:** Árboles de decisión, Random Forest, Bagging/Boosting, XGBoost.
    * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/05_machinelearning_treesensemblesgbdt.pdf)
