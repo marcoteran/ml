@@ -13,51 +13,50 @@ Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Auto
 
 ## Contenido
 0. **Presentación del curso**
-   * Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/00_machinelearning_syllabus.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/00_machinelearning_syllabus.pdf)
 
 1. **Introducción al *Machine Learning***
-   * Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_machinelearning_introductiontomachinelearning.pdf)
-   * **Video:** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
-   * **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_machinelearning_introductiontomachinelearning.pdf)
+	* **Video:** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
+	* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 
 2. **Preprocesamiento y EDA:** Limpieza, preparación y validación de datos con `Pipeline`/`ColumnTransformer`.
 	* Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_machinelearning_dataexploration.pdf)
 	* **[Norvig2009]** Peter Norvig et al. *“The Unreasonable Effectiveness of Data”* [(article)](https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/35179.pdf)
-  	* IPython Notebooks:
+	* IPython Notebooks:
 			- Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
-         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_machinelearninglandscape.ipynb)
 
 3. **Modelos lineales y regularización:** Ridge, Lasso, Elastic Net; regresión logística.
-   * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/03_machinelearning_regressors.pdf)
-   * **Classifier Playground** This page demonstrates basic classifiers: k nearest neighbors, decision tree, and linear classifiers. [(web)](https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
-   * IPython Notebooks:
-         - Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
-         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
-         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
-         - Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
+	* Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/03_machinelearning_regressors.pdf)
+	* **Classifier Playground** This page demonstrates basic classifiers: k nearest neighbors, decision tree, and linear classifiers. [(web)](https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
+	* IPython Notebooks:
+		- Regresión lineal y logística [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_regression.ipynb)
+	
+
+4. **KNN, SVM y selección de modelos:** KNN, Núcleos, márgenes, *hyper-parameter tuning*.
+	* Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/04_machinelearning_svmmandmodelselection.pdf)
+	* IPython Notebooks:
+         - KNN: Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
          [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
          [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_knnandoverfitting.ipynb)
+			- SVM: Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
+			[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
 
-4. **SVM:** Núcleos, márgenes, *hyper-parameter tuning*.
-   * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/04_machinelearning_svmmandmodelselection.pdf)
+5. **Métodos de ensamble:** Árboles de decisión, Random Forest, Bagging/Boosting, XGBoost.
+   * Descargar presentación: [PDF](https://github.com/marcoteran/ml/raw/master/lectures/05_machinelearning_treesensemblesgbdt.pdf)
    * IPython Notebooks:
-         - Exploración de los datos [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
-         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
-         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_svm_modelselection.ipynb)
-
-5. **Métodos de ensamble**
-   * Árboles de decisión, Random Forest, Bagging/Boosting, XGBoost.
+         - Decision Trees & Ensemble Learning [descargar](https://github.com/marcoteran/ml/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)
+         [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)
+         [![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_treesensemblesgbdt.ipynb)
 
 6. **Aprendizaje no supervisado**
-   * **Reducción de dimensionalidad:** PCA; selección de variables.  
-   * **Clustering:** \(k\)-means, jerárquico, DBSCAN; validación.
-
-7. **Introducción al Aprendizaje por Refuerzo**
-   * Agente–entorno, recompensas, exploración vs. explotación; Q-learning y SARSA (visión práctica).
-
-8. **Cierre y síntesis**
-   * Interpretabilidad (SHAP, ICE), calibración y comunicación ejecutiva.
+	* **Reducción de dimensionalidad:** PCA; selección de variables.  
+	* **Clustering:** \(k\)-means, jerárquico, DBSCAN; validación.
 
 ---
 
