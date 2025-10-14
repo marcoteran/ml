@@ -3,6 +3,10 @@
 # SI7009 — Aprendizaje Automático
 ## Maestría en Ciencias de los Datos y Analítica · Universidad EAFIT
 
+# ---------------
+# ULTIMA CLASE: [Reunión Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjFiMzFmODctZjU3MC00MTk2LWIxMTItMzJhNWMyNmIyYzMx%40thread.v2/0?context=%7b%22Tid%22%3a%2299f7b55e-9cbe-467b-8143-919782918afb%22%2c%22Oid%22%3a%22f70bcdd9-cf77-4c7d-a421-985ad119841e%22%7d)
+# ---------------
+
 ### Descripción del curso
 Curso orientado a la práctica que cubre el ciclo completo de **Aprendizaje Automático**: formulación del problema y métricas, calidad y preparación de datos, modelado, validación honesta, interpretación y comunicación de resultados. Se trabajan modelos lineales y regularizados, SVM, árboles y **ensambles** (Random Forest, Gradient Boosting, XGBoost), **aprendizaje no supervisado** (clustering, reducción de dimensionalidad) e **introducción al aprendizaje por refuerzo**. Herramientas: `scikit-learn`, `pandas`, `matplotlib` y buenas prácticas con `Pipeline`/`ColumnTransformer`.
 
