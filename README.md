@@ -62,7 +62,7 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 
 | Sesión | Slides | Notebook |
 |---|---|---|
-| 1 | [PDF](ADD_LINK_S01_SLIDES) | [NB01](ADD_LINK_NB01) |
+| 1 - Syllabus + evaluación moderna, desbalance y ensembles| [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_ml_modern_evaluation_imbalance_ensembles.pdf) | [NB01](ADD_LINK_NB01) |
 | 2 | [PDF](ADD_LINK_S02_SLIDES) | [NB02](ADD_LINK_NB02) |
 | 3 | [PDF](ADD_LINK_S03_SLIDES) | [NB03](ADD_LINK_NB03) |
 | 4 | [PDF](ADD_LINK_S04_SLIDES) | [NB04](ADD_LINK_NB04) |
