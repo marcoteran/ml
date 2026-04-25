@@ -83,7 +83,7 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 - **Formato:** teórico, opción múltiple
 - **Preguntas:** 20
 - **Plataforma:** Interactiva
-- **Duración efectiva:** 2 horas
+- **Duración efectiva:** 1 horas
 - **Ventana:** se activa en la última clase y queda habilitado hasta el domingo a medianoche
 
 ### Taller modular único
@@ -102,8 +102,7 @@ Será un único taller de principio a fin sobre un problema real de **predicció
 
 ## Exposiciones
 
-Cada grupo podrá escoger tema por orden de selección. Se permite modalidad individual o en pareja, según la dinámica del curso.
-
+Cada grupo podrá escoger tema por orden de selección. Se permite una modalidad de hasta 4 integrantes por grupo, según la dinámica del curso. La presentación tendrá una duración de entre 5-10 minutos.
 ### Entregables
 - presentación en PDF;
 - repositorio público en GitHub;
@@ -126,6 +125,8 @@ Cada grupo podrá escoger tema por orden de selección. Se permite modalidad ind
 - AutoML
 - Time-Series Transformers
 - TinyML / Edge ML
+
+La asignación del tema se elegirá en orden de acuerdo al tiempo de elección.
 
 ---
 
