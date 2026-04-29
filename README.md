@@ -47,8 +47,8 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 
 | Sesión | Fecha | Tema central | Dataset / problema guía |
 |---|---:|---|---|
-| 1 | 2026-04-24 | Bienvenida + syllabus + evaluación moderna, desbalance y ensembles | Credit Card Fraud Detection |
-| 2 | 2026-04-25 | Boosting moderno y optimización de hiperparámetros | Credit Card Fraud Detection |
+| 1 | 2026-04-24 | Bienvenida + syllabus + evaluación moderna, desbalance y ensembles |  |
+| 2 | 2026-04-25 | Boosting moderno y optimización de hiperparámetros | [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | 3 | 2026-05-02 | Series de tiempo, forecasting tabular y walk-forward validation | Metro Interstate Traffic Volume o equivalente |
 | 4 | 2026-05-08 | Recommendation systems | MovieLens |
 | 5 | 2026-05-09 | Representación, clustering aplicado y confiabilidad | Online Retail |
@@ -63,7 +63,7 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 | Sesión | Slides | Notebook |
 |---|---|---|
 | 1 - Syllabus + evaluación moderna, desbalance y ensembles | [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_ml_modern_evaluation_imbalance_ensembles.pdf) |  |
-| 2 - Boosting moderno y optimización de hiperparámetros con validación correcta | [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_ml_boosting_optuna.pdf) | [Descargar NB02](https://github.com/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb)<br>[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb) |
+| 2 - Boosting moderno y optimización de hiperparámetros con validación correcta | [PDF](https://drive.google.com/file/d/1tmNx19iKF9JwbQAYxu0yuWfawEAIzcUz/view?usp=drive_link) | [Descargar NB02](https://github.com/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb)<br>[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/marcoteran/ml/blob/master/notebooks/ml_boosting_optuna.ipynb) |
 | 3 | [PDF](ADD_LINK_S03_SLIDES) | [Descargar NB03](ADD_LINK_NB03_RAW)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](ADD_LINK_NB03_COLAB)<br>[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](ADD_LINK_NB03_KAGGLE) |
 | 4 | [PDF](ADD_LINK_S04_SLIDES) | [Descargar NB04](ADD_LINK_NB04_RAW)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](ADD_LINK_NB04_COLAB)<br>[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](ADD_LINK_NB04_KAGGLE) |
 | 5 | [PDF](ADD_LINK_S05_SLIDES) | [Descargar NB05](ADD_LINK_NB05_RAW)<br>[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](ADD_LINK_NB05_COLAB)<br>[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](ADD_LINK_NB05_KAGGLE) |
