@@ -62,8 +62,8 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 
 | Sesión | Slides | Notebook |
 |---|---|---|
-| 1 - Syllabus + evaluación moderna, desbalance y ensembles| [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_ml_modern_evaluation_imbalance_ensembles.pdf) | [NB01](ADD_LINK_NB01) |
-| 2 | [PDF](ADD_LINK_S02_SLIDES) | [NB02](ADD_LINK_NB02) |
+| 1 - Syllabus + evaluación moderna, desbalance y ensembles | [PDF](https://github.com/marcoteran/ml/raw/master/lectures/01_ml_modern_evaluation_imbalance_ensembles.pdf) |  |
+| 2 - Boosting moderno y optimización de hiperparámetros con validación correcta | [PDF](https://github.com/marcoteran/ml/raw/master/lectures/02_ml_boosting_optuna.pdf) | [NB02](https://github.com/marcoteran/ml/raw/master/notebooks/ml_boosting_optuna.ipynb) |
 | 3 | [PDF](ADD_LINK_S03_SLIDES) | [NB03](ADD_LINK_NB03) |
 | 4 | [PDF](ADD_LINK_S04_SLIDES) | [NB04](ADD_LINK_NB04) |
 | 5 | [PDF](ADD_LINK_S05_SLIDES) | [NB05](ADD_LINK_NB05) |
@@ -86,16 +86,27 @@ La meta no es cubrir una enciclopedia de algoritmos, sino desarrollar **criterio
 - **Duración efectiva:** 1 horas
 - **Ventana:** se activa en la última clase y queda habilitado hasta el domingo a medianoche
 
-### Taller modular único
-Se publicará en la segunda semana y se entregará en la última sesión.  
-Será un único taller de principio a fin sobre un problema real de **predicción binaria desbalanceada**, con énfasis en:
+### Taller evaluativo — Predicción de accidentalidad
 
-- formulación del problema;
-- validación;
-- baseline;
-- boosting;
-- thresholding;
-- calibración;
+El taller ya se encuentra disponible en Interactiva y corresponde a una evaluación grupal del curso.  
+Consiste en desarrollar un flujo completo de **Machine Learning para predicción binaria desbalanceada**, usando una base de datos en SQLite para estimar la ocurrencia de accidentes por barrio y hora.
+
+**Fecha de entrega:** viernes 15 de mayo de 2026, 5:00 p.m.  
+**Entregables:** informe en PDF + notebook `.ipynb` ejecutable  
+**Entrega:** EAFIT Interactiva  
+**Descarga:** [Enunciado del taller](https://github.com/marcoteran/ml/raw/master/homeworks/aprendizaje_automatico_taller_20261.pdf)
+
+El taller evalúa especialmente:
+
+- formulación del problema y construcción del target;
+- generación de casos negativos;
+- análisis exploratorio y calidad de datos;
+- unión de tablas e ingeniería de características;
+- manejo de clases desbalanceadas;
+- validación temporal y control de fuga de información;
+- comparación de modelos y ajuste de hiperparámetros;
+- selección de métricas adecuadas, thresholding y matriz de confusión;
+- propuesta de uso operativo del modelo;
 - recomendación final defendible.
 
 ---
